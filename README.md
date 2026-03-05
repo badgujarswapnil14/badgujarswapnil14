@@ -2,15 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Swapnil+Badgujar&desc=Linux+%26+Cloud+Engineer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:3b3dbf,100:06b6d4&fontColor=ffffff" width="100%"/>
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/badgujarswapnil14"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Swapnil+Badgujar+%F0%9F%91%8B;Linux+%7C+Networking+%7C+Cloud+%7C+DevOps;CCNA+%7C+RHCSA+%7C+Aviatrix+Certified;Currently+Learning+AWS;Frontend+Dev+%3A+React+%7C+Tailwind+%7C+JavaScript" /></a>
+</p>
 
-[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Swapnil+Badgujar+%F0%9F%91%8B;Linux+%7C+Networking+%7C+Cloud+%7C+DevOps;CCNA+%7C+RHCSA+%7C+Aviatrix+Certified;Currently+Learning+AWS;Frontend+Dev+%3A+React+%7C+Tailwind+%7C+JavaScript)](https://github.com/badgujarswapnil14)
-
-[![Followers](https://img.shields.io/github/followers/badgujarswapnil14?label=Followers&logo=github&style=for-the-badge)](https://github.com/badgujarswapnil14?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/swapnil-badgujar-5a5b00268)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:badgujarswapnil14@gmail.com)
-
-</div>
+<p align="center">
+<a href="https://github.com/badgujarswapnil14?tab=followers"><img src="https://img.shields.io/github/followers/badgujarswapnil14?label=Followers&logo=github&style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/swapnil-badgujar-5a5b00268"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:badgujarswapnil14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -30,27 +30,33 @@
 
 ### ☁️ Cloud, Linux & DevOps
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Red Hat](https://img.shields.io/badge/RedHat-EE0000?logo=redhat&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/RedHat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cisco_CCNA-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge" />
+</p>
 
 ### 🌐 Frontend
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+</p>
 
 ### 🛠️ Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
@@ -59,28 +65,28 @@
 ### 🖥️ Disk Quota & Filesystem Administration
 > Configured and managed disk quotas on Linux systems to control user and group storage limits. Implemented filesystem monitoring, inode management, and automated alerts for disk usage thresholds using shell scripts.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge)](https://github.com/badgujarswapnil14)
+<a href="https://github.com/badgujarswapnil14"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge" /></a>
 
 ---
 
 ### 🌐 Network Configuration & Troubleshooting
 > Designed and configured network interfaces, static/dynamic routing, DNS, and firewall rules on Linux. Diagnosed and resolved real-world network issues using tools like `ip`, `netstat`, `tcpdump`, and `nmap`.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge)](https://github.com/badgujarswapnil14)
+<a href="https://github.com/badgujarswapnil14"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge" /></a>
 
 ---
 
 ### 📊 Centralized Log Monitoring System
 > Built a centralized log collection and monitoring system across multiple Linux servers. Configured `rsyslog` to aggregate logs to a central server, enabling real-time visibility into system health and events.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge)](https://github.com/badgujarswapnil14)
+<a href="https://github.com/badgujarswapnil14"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge" /></a>
 
 ---
 
 ### 🔐 Log Analysis & Security Audit Automation
 > Developed shell scripts to automate log analysis and security auditing on Linux systems. Automated detection of suspicious login attempts, privilege escalations, and unauthorized access patterns with report generation.
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge)](https://github.com/badgujarswapnil14)
+<a href="https://github.com/badgujarswapnil14"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?logo=github&style=for-the-badge" /></a>
 
 ---
 
@@ -96,14 +102,14 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=badgujarswapnil14&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badgujarswapnil14&layout=compact&langs_count=8&hide_title=true&theme=transparent" height="165" />
+</p>
 
-![Swapnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badgujarswapnil14&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badgujarswapnil14&layout=compact&langs_count=8&hide_title=true&theme=transparent)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=badgujarswapnil14&theme=transparent&hide_border=false)
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=badgujarswapnil14&theme=transparent&hide_border=false" width="60%" />
+</p>
 
 ---
 
@@ -118,19 +124,19 @@
 
 ## 🏆 Achievements
 
-![trophy](https://github-profile-trophy.vercel.app/?username=badgujarswapnil14&theme=flat&no-frame=true&row=1&margin-w=15)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=badgujarswapnil14&theme=flat&no-frame=true&row=1&margin-w=15" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swapnil%20Badgujar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/swapnil-badgujar-5a5b00268)
-[![GitHub](https://img.shields.io/badge/GitHub-badgujarswapnil14-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/badgujarswapnil14)
-[![Email](https://img.shields.io/badge/Email-badgujarswapnil14%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:badgujarswapnil14@gmail.com)
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/swapnil-badgujar-5a5b00268"><img src="https://img.shields.io/badge/LinkedIn-Swapnil%20Badgujar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+<a href="https://github.com/badgujarswapnil14"><img src="https://img.shields.io/badge/GitHub-badgujarswapnil14-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:badgujarswapnil14@gmail.com"><img src="https://img.shields.io/badge/Email-badgujarswapnil14%40gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
@@ -146,8 +152,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:3b3dbf,100:06b6d4" width="100%"/>
 
-<div align="center">
-
-[![quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=First+solve+the+problem.+Then+write+the+code.;Building+scalable+cloud+infra%2C+one+config+at+a+time)](https://github.com/badgujarswapnil14)
-
-</div>
+<p align="center">
+<a href="https://github.com/badgujarswapnil14"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=First+solve+the+problem.+Then+write+the+code.;Building+scalable+cloud+infra%2C+one+config+at+a+time" /></a>
+</p>
