@@ -1,6 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=badgujarswapnil14&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Swapnil+Badgujar&desc=Linux+%26+Cloud+Engineer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:3b3dbf,100:06b6d4&fontColor=ffffff" width="100%"/>
+
+[![banner](https://capsule-render.vercel.app/api?type=waving&height=240&text=Swapnil%20Badgujar&desc=Linux%20and%20Cloud%20Engineer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:4f46e5,100:06b6d4&fontColor=ffffff)](https://github.com/aaryyann)
 
 <p align="center">
 <a href="https://github.com/badgujarswapnil14"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Swapnil+Badgujar+%F0%9F%91%8B;Linux+%7C+Networking+%7C+Cloud+%7C+DevOps;CCNA+%7C+RHCSA+%7C+Aviatrix+Certified;Currently+Learning+AWS;Frontend+Dev+%3A+React+%7C+Tailwind+%7C+JavaScript" /></a>
