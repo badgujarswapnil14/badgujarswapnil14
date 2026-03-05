@@ -1,12 +1,16 @@
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=badgujarswapnil14&label=Profile%20views&color=0e75b6&style=flat)
 
-[![banner](https://capsule-render.vercel.app/api?type=waving&height=240&text=Swapnil%20Badgujar&desc=Linux%20%26%20Cloud%20Engineer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:4f46e5,100:06b6d4&fontColor=ffffff)](https://github.com/badgujarswapnil14)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Swapnil+Badgujar&desc=Linux+%26+Cloud+Engineer&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=65&color=0:3b3dbf,100:06b6d4&fontColor=ffffff" width="100%"/>
 
-[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Swapnil+Badgujar+%F0%9F%91%8B;Linux+%7C+Networking+%7C+Cloud+%7C+DevOps;CCNA+%7C+RHCSA+%7C+Aviatrix+Certified;Currently+Learning+AWS+%E2%98%81%EF%B8%8F;Frontend+Dev+%E2%80%A2+React+%7C+Tailwind+%7C+JavaScript)](https://github.com/badgujarswapnil14)
+[![typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&repeat=true&width=750&lines=Hi%2C+I'm+Swapnil+Badgujar+%F0%9F%91%8B;Linux+%7C+Networking+%7C+Cloud+%7C+DevOps;CCNA+%7C+RHCSA+%7C+Aviatrix+Certified;Currently+Learning+AWS+%E2%98%81%EF%B8%8F;Frontend+Dev+%3A+React+%7C+Tailwind+%7C+JavaScript)](https://github.com/badgujarswapnil14)
 
 [![Followers](https://img.shields.io/github/followers/badgujarswapnil14?label=Followers&logo=github&style=for-the-badge)](https://github.com/badgujarswapnil14?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/swapnil-badgujar-5a5b00268)
-[![Email](https://img.shields.io/badge/Email-badgujarswapnil14@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:badgujarswapnil14@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:badgujarswapnil14@gmail.com)
+
+</div>
 
 ---
 
@@ -24,15 +28,17 @@
 
 ## 🧰 Tech Stack
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Linux & DevOps
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
 ![Red Hat](https://img.shields.io/badge/RedHat-EE0000?logo=redhat&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
 
 ### 🌐 Frontend
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -41,6 +47,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ### 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
@@ -89,10 +96,14 @@
 
 ## 📈 GitHub Analytics
 
-![Swapnil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badgujarswapnil14&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badgujarswapnil14&layout=compact&langs_count=8&hide_title=true&theme=transparent)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=badgujarswapnil14&theme=transparent&hide_border=false)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=badgujarswapnil14&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github&theme=transparent" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badgujarswapnil14&layout=compact&langs_count=8&hide_title=true&theme=transparent" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=badgujarswapnil14&theme=transparent&hide_border=false" width="60%"/>
+
+</div>
 
 ---
 
@@ -105,11 +116,21 @@
 
 ---
 
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=badgujarswapnil14&theme=flat&no-frame=true&row=1&margin-w=15)](https://github.com/badgujarswapnil14)
+
+---
+
 ## 🌐 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Swapnil%20Badgujar-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/swapnil-badgujar-5a5b00268)
 [![GitHub](https://img.shields.io/badge/GitHub-badgujarswapnil14-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/badgujarswapnil14)
 [![Email](https://img.shields.io/badge/Email-badgujarswapnil14@gmail.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:badgujarswapnil14@gmail.com)
+
+</div>
 
 ---
 
@@ -123,6 +144,10 @@
 
 ---
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4f46e5,100:06b6d4)](https://github.com/badgujarswapnil14)
+<div align="center">
 
-[![animated quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&length=60&center=true&vCenter=true&width=800&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;Building+scalable+cloud+infrastructure%2C+one+config+at+a+time+%F0%9F%8C%A9%EF%B8%8F)](https://github.com/badgujarswapnil14)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:3b3dbf,100:06b6d4" width="100%"/>
+
+[![quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=First+solve+the+problem.+Then+write+the+code.;Building+scalable+cloud+infra%2C+one+config+at+a+time+%F0%9F%8C%A9)](https://github.com/badgujarswapnil14)
+
+</div>
